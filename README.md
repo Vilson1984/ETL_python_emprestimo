@@ -24,6 +24,6 @@ Será criado um novo arquivo, com as novas decisões geradas.<br>
 📓[Score Clientes](https://github.com/Vilson1984/ETL_python_emprestimo/blob/main/score_clientes.csv)
 🖥️[Decisão Empréstimo](https://github.com/Vilson1984/ETL_python_emprestimo/blob/main/decisao.csv)
 
-# Objctive
+# Objective
 Create a code in Pynthon able to do whole process ETL<br>
 Criar um código em Python capaz de fazer todo processo ETL
