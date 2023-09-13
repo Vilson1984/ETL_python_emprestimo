@@ -1,6 +1,6 @@
-# ETL_python_emprestimo
+# About the Pipeline ETL in Python
 
-<b>Project ETL (Extraction - Transform - Load) dates at python.</b><br>
+<b>Project pipeline ETL (Extraction - Transform - Load) dates at python.</b><br>
 Where at first stage <br><b>EXTRACTION:</b> 
 we'll import csv to read and write the file builded at Excel
 The program will be Extract whole information tha file.csv 
@@ -12,7 +12,7 @@ Will be create a new file, with the new decisions<br>
 📓[Score Clients](https://github.com/Vilson1984/ETL_python_emprestimo/blob/main/score_clientes.csv)
 🖥️[Decision Lend](https://github.com/Vilson1984/ETL_python_emprestimo/blob/main/decisao.csv)
 <br><br>
-<b>Projeto ETL (Extrai - Transforma - Lê) dados em python.</b><br>
+<b>Projeto pipeline de ETL (Extrai - Transforma - Lê) dados em python.</b><br>
 Na primeira fase <br><b>EXTRAÇÃO:</b>
 Vamos importar csv para ler e escrever o arquivo construído no Excel
 O programa irá Extrair todas as informações do arquivo.csv
@@ -23,3 +23,7 @@ No 3º e último <br><b>LOAD:</b>
 Será criado um novo arquivo, com as novas decisões geradas.<br>
 📓[Score Clientes](https://github.com/Vilson1984/ETL_python_emprestimo/blob/main/score_clientes.csv)
 🖥️[Decisão Empréstimo](https://github.com/Vilson1984/ETL_python_emprestimo/blob/main/decisao.csv)
+
+# Objctive
+Create a code in Pynthon able to do whole process ETL<br>
+Criar um código em Python capaz de fazer todo processo ETL
